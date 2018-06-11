@@ -1,0 +1,6 @@
+name: responsify-production
+recipe: pantheon
+config:
+  framework: wordpress
+  site: responsify-production
+  id: 0db880fa-1eef-4364-8223-b2082a2d13e2
